@@ -1,0 +1,17 @@
+# Environment
+.python-version
+
+# Byte-compiled
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Application data
+models/
+voices/
+performances/
+sequence.json
